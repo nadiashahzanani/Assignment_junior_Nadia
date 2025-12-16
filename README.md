@@ -1,6 +1,6 @@
 # Assignment_junior_Nadia
 
-# Electricity Calculator (PHP Vanilla)
+## Electricity Calculator (PHP Vanilla)
 
 This project calculates electricity power, energy, and total charge based on user input using plain PHP.
 
