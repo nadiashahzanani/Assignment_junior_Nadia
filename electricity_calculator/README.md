@@ -1,4 +1,4 @@
-# Electricity Calculator (PHP Vanilla)
+# Electricity Calculator (PHP)
 
 This project calculates electricity power, energy, and total charge based on user input using plain PHP.
 
@@ -9,7 +9,7 @@ This project calculates electricity power, energy, and total charge based on use
 - Per hour and per day calculation
 
 ## Technologies
-- PHP (Vanilla)
+- PHP
 - Bootstrap 4
 
 ## Formula
